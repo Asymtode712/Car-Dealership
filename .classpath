@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:\Users\dell\Downloads\Car_ShowRoom_Management_System-master\mysql-connector-java-5.1.23-bin.jar"/>
+		<!-- path="C:\Users\vineet\Downloads\Employee-Management-System-main\Employee-Management-System-main\mysql-connecter\mysql-connector.jar"  --> 
+		<!-- set the path of where your mysql connecter location. like my current location
+		"C:\Users\vineet\Downloads\Employee-Management-System-main\Employee-Management-System-main\mysql-connecter\mysql-connector.jar" -->
+	<classpathentry kind="output" path="bin"/>
+</classpath>
